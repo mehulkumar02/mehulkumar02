@@ -26,6 +26,6 @@ Link: https://github.com/yourusername/web-stopwatch
 
 📬 Contact
 
-Email: mehulkumar.mk02@gmail.com
-LinkedIn: https://www.linkedin.com/in/mehulkumar2022/
+- Email: mehulkumar.mk02@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mehulkumar2022/
 
