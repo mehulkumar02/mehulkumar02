@@ -13,11 +13,11 @@ Hi there, I'm Mehul Kumar 👋
 📂 Projects
 
 - Portfolio Website: Personal portfolio showcasing my projects and skills.
-Link: https://github.com/yourusername/portfolio-website
+-Link: https://github.com/yourusername/portfolio-website
 - Web Calculator: Responsive calculator for basic arithmetic operations.
-Link: https://github.com/yourusername/web-calculator
+-Link: https://github.com/yourusername/web-calculator
 - Web Stopwatch: Web-based stopwatch with start, stop, and reset functionalities.
-Link: https://github.com/yourusername/web-stopwatch
+-Link: https://github.com/yourusername/web-stopwatch
 
 🎓 Certifications
 
