@@ -15,7 +15,7 @@ Hi there, I'm Mehul Kumar 👋
 - Portfolio Website: Personal portfolio showcasing my projects and skills.
 - Link: https://mehulkumar02.github.io/Portfolio-Website/
 - Web Calculator: Responsive calculator for basic arithmetic operations.
-- Link: https://github.com/yourusername/web-calculator
+- Link: https://mehulkumar02.github.io/Web-Calculator/
 - Web Stopwatch: Web-based stopwatch with start, stop, and reset functionalities.
 - Link: https://mehulkumar02.github.io/Web-StopWatch/
 - 
